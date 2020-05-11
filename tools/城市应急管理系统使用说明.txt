@@ -1,0 +1,11 @@
+开始监控：
+	按下数字1退出弹窗
+查看监控：
+	按下英文q(注意是在英文状态下)退出弹窗
+
+后台：
+管理后台主页：http://127.0.0.1:8080/admin
+开始监控页面：http://127.0.0.1:8000/admin/#/admin/record/recording/
+开始监控接口:http://127.0.0.1:8080/admin/record/start
+查看监控页面：http://127.0.0.1:8000/admin/#/admin/record/record/
+查看监控接口：http://127.0.0.1:8080/admin/record/check/videoid=视频的id
